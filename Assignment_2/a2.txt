@@ -1,0 +1,4 @@
+This assignment is designed to get us familiar with basic functions in C++
+
+Become familiar with arithmetic, including modulo operations
+Become famiilar with basic cout statements
