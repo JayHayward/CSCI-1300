@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509582286 source:/home/user/Dropbox/my_dir/HW7/WordCounts/main.cpp
+	<iostream>
+
+1509584026 source:/home/user/Dropbox/my_dir/HW7/WordCounts/WordCounts.cpp
+	"WordCounts.h"
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1509556217 /home/user/Dropbox/my_dir/HW7/WordCounts/WordCounts.h
+	<iostream>
+
